@@ -1,0 +1,116 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Sunflower', sans-serif;
+}
+
+nav{
+	margin: 0;
+	padding: 0;
+	width: 25%;
+	height: 100%;
+	border: 1px solid black;
+	position: fixed;
+	margin-top: -21px;
+	margin-left: -3%;
+}
+
+ul{
+	list-style-type: none;
+	
+}
+li a{
+	text-decoration: none;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+#texto{
+	margin-left: 25%;
+	height: 100%;
+	margin-top: 0;
+
+}
+
+#codigo{
+	color: red;
+
+}
+
+#navbar ul{
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 25%;
+	background-color: #f1f1f1; 
+	border: 1px solid black;
+	height: 100%;
+	position: fixed;
+	overflow: auto;
+	
+}
+
+#navbar li{
+	display: block;
+	margin: 0;
+	text-align:center;
+	text-decoration: none;
+	padding: 7%;
+	margin-bottom: 20%;
+
+	border: 1px solid black;
+}
+
+#footer{
+	border: 1px solid black;
+	padding: 10px;
+	padding-right: 2.7%;
+	width: 100%;
+	margin-left: -3.9%; 
+}
+
+.codigo{
+	color: green;
+}
+
+#car{
+	margin: 0;
+	margin-left: -3.9%;
+	width: 100%;
+	border: 1px solid black;
+	padding-right: 3.6%;
+
+}
+
+#qt{
+	margin: 0;
+	margin-left: -3.9%;
+	width: 100%;
+	border: 1px solid black;
+	padding-right: 3.6%;
+}
+#funcionamento{
+	margin: 0;
+	margin-left: -3.9%;
+	width: 100%;
+	border: 1px solid black;
+	padding-right: 3.6%;
+}
+#referencias{
+	margin: 0;
+	margin-left: -3.9%;
+	width: 100%;
+	border: 1px solid black;
+	padding-right: 3.6%;
+}
+#integrantes{
+	margin: 0;
+	margin-left: -3.9%;
+	width: 100%;
+	border: 1px solid black;
+	padding-right: 3.6%;
+}
